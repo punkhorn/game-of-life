@@ -6,7 +6,6 @@
         <groupId>com.wakaleo.gameoflife</groupId>
         <version>0.9.67-SNAPSHOT</version>
     </parent>
-    <groupId>com.wakaleo.gameoflife</groupId>
     <artifactId>gameoflife-core</artifactId>
     <packaging>jar</packaging>
     <name>gameoflife-core</name>
